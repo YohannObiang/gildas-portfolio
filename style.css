@@ -43,3 +43,8 @@ nav{
     transform: rotate(-90deg);
     color: black;
 }
+.logosquare{
+    width: 47px;
+    height: 26px;
+    border: 4px solid #9E58F9;
+}
