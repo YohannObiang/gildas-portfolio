@@ -163,13 +163,13 @@ nav{
     }
     
     .button{
-        width: 125px;;
-        height:50px;
+        width: 100px;;
+        height:40px;
         border-radius: 25px;
         border: solid 2px #7510F7;
         background-color: transparent;
         color: #7510F7;
-        font-size: 17px;
+        font-size: 14px;
     }
     .title{
         color: #141C3A;
